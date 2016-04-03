@@ -5,4 +5,4 @@ Hello!
 
 My name is Allison. 
 I'm a graduate student and a research assistant at the University of Arizona.
-I'm a beginner in the git world, but I think I'll be learning quickly!
+I'm a beginner in the git world, so I appreciate any tips for starting out.
